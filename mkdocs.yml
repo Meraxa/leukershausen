@@ -1,0 +1,23 @@
+site_name: Leukershausen
+site_description: "Leukershausen - A small village in the south of Germany"
+site_author: "Tim Groß"
+site_url: "https://leukershausen.de"
+
+theme:
+  name: material
+  palette:
+    # Palette toggle for dark mode
+    - scheme: default
+      primary: black
+      accent: purple
+      toggle:
+        icon: material/weather-night
+        name: switch to light mode
+
+    # Palette toggle for light mode
+    - scheme: slate
+      primary: black
+      accent: purple
+      toggle:
+        icon: material/weather-sunny
+        name: switch to dark mode
