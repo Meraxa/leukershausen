@@ -1,0 +1,8 @@
+[tool.poetry]
+name = "leukershausen"
+authors = ["Tim Groß <tim.lk@web.de>"]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.12"
+mkdocs-material = "^9.5.43"
